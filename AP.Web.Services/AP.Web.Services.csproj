@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AP.Web.Common\AP.Web.Common.csproj" />
+    <ProjectReference Include="..\AP.Web.Persistence\AP.Web.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
